@@ -5,4 +5,4 @@ Compilación del código:
 El código desarrollado debe ajecutarse a partir de un itérprete de Python ver 3.0
 
 Requerimientos del código:
-Se requiere tener instaladas las librerias $numpy$ y $matplotlib$ en intérprete empleado
+Se requiere tener instaladas las librerias 'numpy' y 'matplotlib' en el intérprete empleado
